@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 
-- [Mean-Variance-Standard Deviation Calculator](https://freecodecam-boilerplate-ouu0wbyezl4.ws-eu110.gitpod.io/)
+- [Mean-Variance-Standard Deviation Calculator](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
 
 
 <h2>📜 Certifications:</h2>
