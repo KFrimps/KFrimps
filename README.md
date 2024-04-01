@@ -1,7 +1,30 @@
-### Hi there 👋
+<h1>Hi, I'm Kwadwo! 
+
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+
+- [Mean-Variance-Standard Deviation Calculator](https://freecodecam-boilerplate-ouu0wbyezl4.ws-eu110.gitpod.io/)
+
+
+<h2>📜 Certifications:</h2>
+
+- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/J9WA723K8FQS)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+[linkedin]: www.linkedin.com/in/kwadwo-frimpong
+
 
 <!--
-**KFrimps/KFrimps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
