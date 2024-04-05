@@ -1,6 +1,8 @@
-<h1>Hi, I'm Kwadwo! 
+<h1>Hi, I'm Kwadwo!</h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>Welcome to my Github! 🤩🤝</h2>
+
+<h3>👨‍💻 Data Analysis Projects:</h3>
 
 
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
