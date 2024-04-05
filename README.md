@@ -11,6 +11,7 @@
 <h2>📜 Certifications:</h2>
 
 - [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/J9WA723K8FQS)
+- [Freecodecamp: Data Analysis with Python](https://www.freecodecamp.org/certification/KFRIMPS/data-analysis-with-python-v7)
 
 <h2> 🤳 Connect with me:</h2>
 
