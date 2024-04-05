@@ -7,6 +7,7 @@
 - [Demographic Data Analyzer](https://github.com/KFrimps/Demographic-Data-Analyzer/blob/main/README.md)
 - [Medical Data Visualizer](https://github.com/KFrimps/Medical-Data-Visualizer/blob/main/README.md)
 - [Page View Time Series Visualizer](https://github.com/KFrimps/Page-View-Time-Series-Visualizer/blob/main/README.md)
+- [Sea Level Predictor](https://github.com/KFrimps/Sea-Level-Predictor/edit/main/README.md)
 
 <h2>📜 Certifications:</h2>
 
