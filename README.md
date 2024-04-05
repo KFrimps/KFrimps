@@ -4,7 +4,7 @@
 
 
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
-- [Demographic Data Analyzer](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
+- [Demographic Data Analyzer](https://github.com/KFrimps/Demographic-Data-Analyzer/blob/main/README.md)
 - [Medical Data Visualizer](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
 - [Page View Time Series Visualizer](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
 
