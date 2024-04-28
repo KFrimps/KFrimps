@@ -11,6 +11,7 @@
 - [Page View Time Series Visualizer](https://github.com/KFrimps/Page-View-Time-Series-Visualizer/blob/main/README.md)
 - [Sea Level Predictor](https://github.com/KFrimps/Sea-Level-Predictor/edit/main/README.md)
 - [Electric Vehicles Market Size Analysis](https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis/blob/main/README.md)
+- [Food Delivery Cost and Profitability Analysis](https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis/blob/main/README.md)
 
 <h2>📜 Certifications:</h2>
 
