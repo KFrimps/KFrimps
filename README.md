@@ -2,7 +2,7 @@
 
 <h2>Welcome to my Github! 🤩🤝</h2>
 
-<h3>👨‍💻Projects:</h3>
+<h3>👨‍💻 Projects:</h3>
 
 
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
