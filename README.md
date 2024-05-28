@@ -14,7 +14,7 @@
 - [Food Delivery Cost and Profitability Analysis](https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis/blob/main/README.md)
 - [Delhi Metro Network Analysis](https://github.com/KFrimps/Delhi-Metro-Network-Analysis/blob/main/README.md)
 - [Quantitative-Analysis-of-Stock-Market](https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market/blob/main/README.md)
-- [Health Monitoring and Analysis](https://github.com/KFrimps/Health-Monitoring-and-Analysis/blob/main/README.md)
+- [Health Monitoring and Analysis](https://github.com/KFrimps/Health-Monitoring-and-Analysis/blob/main/README.md)              - [Health Monitoring and Analysis](https://github.com/KFrimps/Health-Monitoring-and-Analysis/blob/main/README.md)
 
 <h2>📜 Certifications:</h2>
 
