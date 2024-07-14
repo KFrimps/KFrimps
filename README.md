@@ -5,11 +5,6 @@
 <h3>👨‍💻 Projects:</h3>
 
 
-- [Mean-Variance-Standard Deviation Calculator](https://github.com/KFrimps/Mean-Variance-Standard-Deviation-Calculator/blob/main/README.md)
-- [Demographic Data Analyzer](https://github.com/KFrimps/Demographic-Data-Analyzer/blob/main/README.md)
-- [Medical Data Visualizer](https://github.com/KFrimps/Medical-Data-Visualizer/blob/main/README.md)
-- [Page View Time Series Visualizer](https://github.com/KFrimps/Page-View-Time-Series-Visualizer/blob/main/README.md)
-- [Sea Level Predictor](https://github.com/KFrimps/Sea-Level-Predictor/edit/main/README.md)
 - [Electric Vehicles Market Size Analysis](https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis/blob/main/README.md)
 - [Food Delivery Cost and Profitability Analysis](https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis/blob/main/README.md)
 - [Delhi Metro Network Analysis](https://github.com/KFrimps/Delhi-Metro-Network-Analysis/blob/main/README.md)
