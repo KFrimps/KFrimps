@@ -16,7 +16,7 @@ I am passionate about implementing AI and machine learning: computer vision and 
 ***
 ## 🔭 I'm currently working on
 
-- Simulating a self-driving car
+> - [Simulating a self-driving car](https://github.com/KFrimps/Self-Driving-Car/blob/main/README.md)
 
 ## 🌱 I'm currently learning
 
