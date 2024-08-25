@@ -20,7 +20,7 @@ I am passionate about implementing AI and machine learning: computer vision and 
 
 ## 🌱 I am currently learning
 
-> - [The Complete Self-Driving Car Course](https://lmiholdings.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course)
+> - [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://youtu.be/IA3WxTTPXqQ?si=S75swx2GGacqZb3U)
 
 ## 💼 Technical Skills
 ***
