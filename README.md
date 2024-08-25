@@ -16,7 +16,7 @@ I am passionate about implementing AI and machine learning: computer vision and 
 ***
 ## 🔭 I am currently working on
 
-> - 
+> - Traffic signs classification using convolutional neural network (CNN)
 
 ## 🌱 I am currently learning
 
