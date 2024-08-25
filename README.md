@@ -7,7 +7,7 @@ Hi there, I'm Kwadwo</a> 👋
 I am a BSc. Civil Engineering Graduate who is currrently exploring the application of Artificial Intelligence (AI) and Machine learning in Transportation Engineering. I am enthusiastic of the good impact autonomous vehicles (AVs) will have on the future of our transportation systems, by increasing safety, and reducing conjestion and travel time.
 </h3> 
 
-I am passionate about implementing AI and machine learning: computer vision and any other packages, in creating a transportation environment for AVs.
+I am passionate about implementing AI and machine learning: computer vision and any other packages, in creating a coping transportation environment for AVs and exploring the implications of AVs on transportation.
 
 >🫂I am open to guidance as I embark on this journey.
 
