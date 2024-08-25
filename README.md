@@ -16,7 +16,7 @@ I am passionate about implementing AI and machine learning: computer vision and 
 ***
 ## 🔭 I'm currently working on
 
-> - [Simulating a self-driving car](https://github.com/KFrimps/Self-Driving-Car/blob/main/README.md)
+> - 
 
 ## 🌱 I'm currently learning
 
@@ -62,6 +62,8 @@ I am passionate about implementing AI and machine learning: computer vision and 
 - [Quantitative-Analysis-of-Stock-Market](https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market/blob/main/README.md)
 - [Health Monitoring and Analysis](https://github.com/KFrimps/Health-Monitoring-and-Analysis/blob/main/README.md)
 - [Perceptron - Using Keras](https://github.com/KFrimps/Perceptron/blob/main/Perceptron.ipynb)
+- [Simulating a self-driving car](https://github.com/KFrimps/Self-Driving-Car/blob/main/README.md)
+- [Parking Space Detection System](https://github.com/KFrimps/Parking-Space-Detection-System/tree/main/README.md)
 
 </br>
   
