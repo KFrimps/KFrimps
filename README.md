@@ -14,11 +14,11 @@ I am passionate about implementing AI and machine learning: computer vision and 
 <h2 align="center">Welcome to my Github! 🤩🤝</h2>
 
 ***
-## 🔭 I'm currently working on
+## 🔭 I am currently working on
 
 > - 
 
-## 🌱 I'm currently learning
+## 🌱 I am currently learning
 
 > - [The Complete Self-Driving Car Course](https://lmiholdings.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course)
 
@@ -59,7 +59,7 @@ I am passionate about implementing AI and machine learning: computer vision and 
 - [Electric Vehicles Market Size Analysis](https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis/blob/main/README.md)
 - [Food Delivery Cost and Profitability Analysis](https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis/blob/main/README.md)
 - [Delhi Metro Network Analysis](https://github.com/KFrimps/Delhi-Metro-Network-Analysis/blob/main/README.md)
-- [Quantitative-Analysis-of-Stock-Market](https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market/blob/main/README.md)
+- [Quantitative Analysis of Stock Market](https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market/blob/main/README.md)
 - [Health Monitoring and Analysis](https://github.com/KFrimps/Health-Monitoring-and-Analysis/blob/main/README.md)
 - [Perceptron - Using Keras](https://github.com/KFrimps/Perceptron/blob/main/Perceptron.ipynb)
 - [Simulating a self-driving car](https://github.com/KFrimps/Self-Driving-Car/blob/main/README.md)
