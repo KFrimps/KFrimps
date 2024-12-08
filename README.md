@@ -16,11 +16,11 @@ I am passionate about implementing AI and machine learning: computer vision and 
 ***
 ## 🔭 I am currently working on
 
-> - Traffic signs classification using convolutional neural network (CNN)
+> - Detecting road components that cause road accidents using Google Street View and 3D-Point Cloud Data
 
 ## 🌱 I am currently learning
 
-> - [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://youtu.be/IA3WxTTPXqQ?si=S75swx2GGacqZb3U)
+> - [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/take/langchain/multimedia/46317652-introduction-to-llms-and-langchain)
 
 ## 💼 Technical Skills
 ***
