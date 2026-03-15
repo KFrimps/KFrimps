@@ -1,64 +1,66 @@
 <h1 align="center">Hi, I'm Kwadwo Frimpong</h1>
 <p align="center">
-Civil Engineering (BSc) • AI/ML for Transportation • Computer Vision
+MASc. Civil Engineering @ McMaster University • ML/Computer Vision for Transportation & Logistics • Federated Learning
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/kwadwo-frimpong">LinkedIn</a> •
-<a href="mailto:kwadwo.frimpong@gmail.com">Email</a> •
+<a href="mailto:frimpongkwadwo53@gmail.com">Email</a> •
 <a href="https://github.com/KFrimps">GitHub</a>
 </p>
 
 ---
 
-## About
-I’m a Civil Engineering graduate exploring how **AI/ML** (especially **computer vision**) can improve **transportation safety and efficiency**—from road environment understanding to supporting autonomous-vehicle (AV) systems.
+## Summary
+I’m a MASc. Civil Engineering student at **McMaster University** focused on applying **machine learning** and **computer vision** to **large-scale transportation and logistics systems**.
 
-**I’m open to mentorship, collaboration, and research guidance** in:
-- Traffic safety analytics & risk modeling
-- Road-scene understanding (GSV / aerial / dashcam)
-- Mapping, networks, and mobility data
+I build ML systems that learn from **distributed transportation data**—with an emphasis on **privacy**, **robustness**, and **scalability**. I enjoy taking ideas from research to practical implementations (clean pipelines, reproducible experiments, and well-documented code).
+
+**Interests:** Intelligent Transportation Systems (ITS), autonomous mobility, logistics optimization, and real‑world ML deployment.
 
 ---
 
-## Focus right now
-- **Detecting road components that contribute to accidents** using **Google Street View** and **3D point clouds**
-- Building cleaner, reproducible ML projects (environments, scripts, and documentation)
-
-## Currently learning
-- LangChain & Vector Databases in Production (ActiveLoop)
+## What I’m working on
+- **Federated learning** frameworks for **freight demand forecasting**
+- **Reinforcement learning** for **logistics service allocation**
+- **Computer vision** systems for transportation perception tasks
 
 ---
 
 ## Featured projects
-(Selected work—see the full list below.)
+(Selected work—see the portfolio section for more.)
 
-- **Parking Space Detection System** (Python / OpenCV): detects available parking spaces from video.
+- **Parking Space Detection System** — Python/OpenCV pipeline for occupancy detection from video.
   - Repo: https://github.com/KFrimps/Parking-Space-Detection-System
-- **Simulating a Self‑Driving Car** (behavioral cloning): end-to-end steering model training + driving pipeline.
+- **Simulating a Self‑Driving Car** — behavioral cloning training + driving pipeline.
   - Repo: https://github.com/KFrimps/Self-Driving-Car
-- **Delhi Metro Network Analysis** (data analysis / visualization): network and station-level insights.
+- **Delhi Metro Network Analysis** — network + station-level analysis and visualization.
   - Repo: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
 
 ---
 
-## Tech stack
+## Technical skills
 **Languages:** Python, R, SQL (MySQL/SQLite)
 
-**Libraries:** NumPy, Pandas, scikit-learn, Matplotlib, Plotly, SciPy, Keras, TensorFlow
+**ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn
 
-**Tools:** Jupyter, Anaconda, Git/GitHub, Excel
+**Data:** NumPy, Pandas, SciPy, Matplotlib, Plotly
+
+**Tools:** Git/GitHub, Jupyter, Anaconda, Excel
 
 ---
 
-## Projects (portfolio)
+## Portfolio
+**Transportation / Computer Vision / ML**
+- Parking Space Detection System: https://github.com/KFrimps/Parking-Space-Detection-System
+- Simulating a self-driving car: https://github.com/KFrimps/Self-Driving-Car
+- Delhi Metro Network Analysis: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
+
+**Data analysis**
 - Electric Vehicles Market Size Analysis: https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis
 - Food Delivery Cost and Profitability Analysis: https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis
-- Delhi Metro Network Analysis: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
 - Quantitative Analysis of Stock Market: https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market
 - Health Monitoring and Analysis: https://github.com/KFrimps/Health-Monitoring-and-Analysis
 - Perceptron (Keras): https://github.com/KFrimps/Perceptron
-- Simulating a self-driving car: https://github.com/KFrimps/Self-Driving-Car
-- Parking Space Detection System: https://github.com/KFrimps/Parking-Space-Detection-System
 
 ---
 
