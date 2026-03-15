@@ -1,110 +1,75 @@
-<h1 align="center">
-Hi there, I'm Kwadwo</a> 👋
-</h1>
+<h1 align="center">Hi, I'm Kwadwo Frimpong</h1>
+<p align="center">
+Civil Engineering (BSc) • AI/ML for Transportation • Computer Vision
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/kwadwo-frimpong">LinkedIn</a> •
+<a href="mailto:kwadwo.frimpong@gmail.com">Email</a> •
+<a href="https://github.com/KFrimps">GitHub</a>
+</p>
 
->
-<h3 align="center">
-I am a BSc. Civil Engineering Graduate who is currrently exploring the application of Artificial Intelligence (AI) and Machine learning in Transportation Engineering. I am enthusiastic of the good impact autonomous vehicles (AVs) will have on the future of our transportation systems, by increasing safety, and reducing conjestion and travel time.
-</h3> 
+---
 
-I am passionate about implementing AI and machine learning: computer vision and any other packages, in creating a coping transportation environment for AVs and exploring the implications of AVs on transportation.
+## About
+I’m a Civil Engineering graduate exploring how **AI/ML** (especially **computer vision**) can improve **transportation safety and efficiency**—from road environment understanding to supporting autonomous-vehicle (AV) systems.
 
->🫂I am open to guidance as I embark on this journey.
+**I’m open to mentorship, collaboration, and research guidance** in:
+- Traffic safety analytics & risk modeling
+- Road-scene understanding (GSV / aerial / dashcam)
+- Mapping, networks, and mobility data
 
-<h2 align="center">Welcome to my Github! 🤩🤝</h2>
+---
 
-***
-## 🔭 I am currently working on
+## Focus right now
+- **Detecting road components that contribute to accidents** using **Google Street View** and **3D point clouds**
+- Building cleaner, reproducible ML projects (environments, scripts, and documentation)
 
-> - Detecting road components that cause road accidents using Google Street View and 3D-Point Cloud Data
+## Currently learning
+- LangChain & Vector Databases in Production (ActiveLoop)
 
-## 🌱 I am currently learning
+---
 
-> - [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/take/langchain/multimedia/46317652-introduction-to-llms-and-langchain)
+## Featured projects
+(Selected work—see the full list below.)
 
-## 💼 Technical Skills
-***
+- **Parking Space Detection System** (Python / OpenCV): detects available parking spaces from video.
+  - Repo: https://github.com/KFrimps/Parking-Space-Detection-System
+- **Simulating a Self‑Driving Car** (behavioral cloning): end-to-end steering model training + driving pipeline.
+  - Repo: https://github.com/KFrimps/Self-Driving-Car
+- **Delhi Metro Network Analysis** (data analysis / visualization): network and station-level insights.
+  - Repo: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
 
-<!--- Code --->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=000316)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white)
+---
 
-</br>
+## Tech stack
+**Languages:** Python, R, SQL (MySQL/SQLite)
 
-<!--- Tools --->
-![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&color=217346)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-ANACONDA-informational?style=flat&logo=anaconda&color=2344A833)
-![](https://img.shields.io/badge/Tools-JUPYTER-informational?style=flat&logo=jupyter&color=a64f2d)
+**Libraries:** NumPy, Pandas, scikit-learn, Matplotlib, Plotly, SciPy, Keras, TensorFlow
 
-</br>
+**Tools:** Jupyter, Anaconda, Git/GitHub, Excel
 
-<!---Libraries--->
-![](https://img.shields.io/badge/Libraries-NUMPY-informational?style=flat&logo=numpy&color=%23013243)
-![](https://img.shields.io/badge/Libraries-PANDAS-informational?style=flat&logo=pandas&color=%23150458)
-![](https://img.shields.io/badge/Libraries-MATPLOTLIB-yellowgreen)
-![](https://img.shields.io/badge/Libraries-Sklearn-informational?style=flat&logo=scikit-learn&color=%23F7931E)
-![](https://img.shields.io/badge/Libraries-PLOTLY-informational?style=flat&logo=plotly&color=%233F4F75)
-![](https://img.shields.io/badge/Libraries-SCIPY-informational?style=flat&logo=scipy&color=%230C55A5)
-![](https://img.shields.io/badge/Libraries-KERAS-informational?style=flat&logo=Keras&color=%23D00000)
-![](https://img.shields.io/badge/Libraries-TENSORFLOW-informational?style=flat&logo=Tensorflow&color=%23FF6F00)
+---
 
-</br>
+## Projects (portfolio)
+- Electric Vehicles Market Size Analysis: https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis
+- Food Delivery Cost and Profitability Analysis: https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis
+- Delhi Metro Network Analysis: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
+- Quantitative Analysis of Stock Market: https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market
+- Health Monitoring and Analysis: https://github.com/KFrimps/Health-Monitoring-and-Analysis
+- Perceptron (Keras): https://github.com/KFrimps/Perceptron
+- Simulating a self-driving car: https://github.com/KFrimps/Self-Driving-Car
+- Parking Space Detection System: https://github.com/KFrimps/Parking-Space-Detection-System
 
-<h3>👨‍💻 Projects Completed:</h3>
+---
 
+## Certifications
+- Google Data Analytics Specialization (Coursera)
+- freeCodeCamp — Data Analysis with Python
 
-- [Electric Vehicles Market Size Analysis](https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis/blob/main/README.md)
-- [Food Delivery Cost and Profitability Analysis](https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis/blob/main/README.md)
-- [Delhi Metro Network Analysis](https://github.com/KFrimps/Delhi-Metro-Network-Analysis/blob/main/README.md)
-- [Quantitative Analysis of Stock Market](https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market/blob/main/README.md)
-- [Health Monitoring and Analysis](https://github.com/KFrimps/Health-Monitoring-and-Analysis/blob/main/README.md)
-- [Perceptron - Using Keras](https://github.com/KFrimps/Perceptron/blob/main/Perceptron.ipynb)
-- [Simulating a self-driving car](https://github.com/KFrimps/Self-Driving-Car/blob/main/README.md)
-- [Parking Space Detection System](https://github.com/KFrimps/Parking-Space-Detection-System/tree/main/README.md)
+---
 
-</br>
-  
-<h2>📜 Certifications:</h2>
+## GitHub stats
 
-- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/J9WA723K8FQS)
-- [Freecodecamp: Data Analysis with Python](https://www.freecodecamp.org/certification/KFRIMPS/data-analysis-with-python-v7)
+[![Kwadwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KFrimps&show_icons=true&theme=tokyonight)](https://github.com/KFrimps)
 
-</br>
-
-## 📈 GitHub Stats 
-
-***
-
-[![Kwadwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KFrimps&show_icons=true&theme=tokyonight)](https://github.com/KFrimps/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KFrimps&theme=gotham)](https://github.com/KFrimps/KFrimps)
-
-</br>
-
-### 🤳 Connect with me:
-
-<a href="https://www.linkedin.com/in/kwadwo-frimpong"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blessing | LinkedIn" ></a>
-
-
-
-
-[linkedin]: www.linkedin.com/in/kwadwo-frimpong
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KFrimps&theme=gotham)](https://github.com/KFrimps)
