@@ -50,17 +50,20 @@ I build ML systems that learn from **distributed transportation data**—with an
 ---
 
 ## Portfolio
-**Transportation / Computer Vision / ML**
-- Parking Space Detection System: https://github.com/KFrimps/Parking-Space-Detection-System
-- Simulating a self-driving car: https://github.com/KFrimps/Self-Driving-Car
-- Delhi Metro Network Analysis: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
-
-**Data analysis**
+**Logistics**
 - Electric Vehicles Market Size Analysis: https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis
 - Food Delivery Cost and Profitability Analysis: https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis
 - Quantitative Analysis of Stock Market: https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market
 - Health Monitoring and Analysis: https://github.com/KFrimps/Health-Monitoring-and-Analysis
 - Perceptron (Keras): https://github.com/KFrimps/Perceptron
+
+**Transportation**
+- Parking Space Detection System: https://github.com/KFrimps/Parking-Space-Detection-System
+- Simulating a self-driving car: https://github.com/KFrimps/Self-Driving-Car
+- Delhi Metro Network Analysis: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
+
+**Computer Vision**
+
 
 ---
 
