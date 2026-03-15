@@ -58,7 +58,7 @@ I build ML systems that learn from **distributed transportation data**—with an
 - Simulating a self-driving car: https://github.com/KFrimps/Self-Driving-Car
 
 **General**
-
+- Mitigating Data Heterogeneity in Federated Learning: https://github.com/KFrimps/clipfs--noniid
 
 ### Data Analysis
 - Delhi Metro Network Analysis: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
