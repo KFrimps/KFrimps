@@ -20,7 +20,7 @@ I build ML systems that learn from **distributed transportation data**—with an
 ---
 
 ## What I’m working on
-- **Federated learning** frameworks for **freight demand forecasting**
+- **Federated learning** framework for **freight demand forecasting**
 - **Federated reinforcement learning** for **logistics service allocation**
 - **Computer vision** systems for transportation perception tasks
 
