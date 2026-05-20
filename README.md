@@ -20,8 +20,7 @@ I build ML systems that learn from **distributed transportation data**—with an
 ---
 
 ## What I’m currently working on:
-- **Computer vision** systems for transportation perception tasks
-- **Federated Reinforcement Learning** for service allocation at logistics hubs
+- Autonomous vehicle environmental perception
 
 ---
 
@@ -60,22 +59,5 @@ I build ML systems that learn from **distributed transportation data**—with an
 **General**
 - Mitigating Data Heterogeneity in Federated Learning: https://github.com/KFrimps/clipfs--noniid
 
-### Data Analysis
-- Delhi Metro Network Analysis: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
-- Health Monitoring and Analysis: https://github.com/KFrimps/Health-Monitoring-and-Analysis
-- Quantitative Analysis of Stock Market: https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market
-- Electric Vehicles Market Size Analysis: https://github.com/KFrimps/Electric-Vehicles-Market-Size-Analysis
-- Food Delivery Cost and Profitability Analysis: https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis
 ---
 
-## Certifications
-- Google Data Analytics Specialization (Coursera)
-- freeCodeCamp — Data Analysis with Python
-
----
-
-## GitHub stats
-
-[![Kwadwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KFrimps&show_icons=true&theme=tokyonight)](https://github.com/KFrimps)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KFrimps&theme=gotham)](https://github.com/KFrimps)
