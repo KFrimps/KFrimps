@@ -24,40 +24,20 @@ I build ML systems that learn from **distributed transportation data**—with an
 
 ---
 
-## Featured projects
-(Selected work—see the portfolio section for more.)
-
-- **Parking Space Detection System** — Python/OpenCV pipeline for occupancy detection from video.
-  - Repo: https://github.com/KFrimps/Parking-Space-Detection-System
-- **Simulating a Self‑Driving Car** — behavioral cloning training + driving pipeline.
-  - Repo: https://github.com/KFrimps/Self-Driving-Car
-- **Delhi Metro Network Analysis** — network + station-level analysis and visualization.
-  - Repo: https://github.com/KFrimps/Delhi-Metro-Network-Analysis
-
+## Projects
+- **Autonomous vehicle environment perception**
+- **Transportation Service Allocation at Logistics Hubs** - https://github.com/KFrimps/Service-allocation-at-Logistics-Hubs
+- **Freight Demand Forecasting** — https://github.com/KFrimps/Freight-Demand-Forecasting
 ---
 
 ## Technical skills
 **Languages:** Python
 
-**ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn
+**ML/DL:** PyTorch, TensorFlow, scikit-learn
 
 **Data:** NumPy, Pandas, SciPy, Matplotlib, Plotly
 
 **Tools:** Git/GitHub, Jupyter, Anaconda
-
----
-
-## Portfolio
-### Logistics
-
-
-### Computer Vision
-**Transportation**
-- Parking Space Detection System: https://github.com/KFrimps/Parking-Space-Detection-System
-- Simulating a self-driving car: https://github.com/KFrimps/Self-Driving-Car
-
-**General**
-- Mitigating Data Heterogeneity in Federated Learning: https://github.com/KFrimps/clipfs--noniid
 
 ---
 
