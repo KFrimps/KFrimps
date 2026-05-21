@@ -11,11 +11,13 @@ MASc. Civil Engineering @ McMaster University • Machine Learning for Transport
 ---
 
 ## Summary
-I’m a MASc. Civil Engineering student at **McMaster University** applying **machine learning** to **transportation and logistics systems**. My work focuses on using data-driven methods to support better planning, forecasting, and operational decision-making across freight, mobility, and logistics networks.
+I’m a MASc. Civil Engineering student at **McMaster University** applying **machine learning** to **transportation and logistics systems**. My work focuses on using data-driven methods to support better planning, smarter operations, and more informed decisions across freight and mobility systems.
 
-I’m particularly interested in building practical ML solutions for **freight demand forecasting**, **resource allocation**, and **transportation system optimization**. I enjoy working across the full workflow—from data preparation and exploratory analysis to model development, evaluation, and communicating results in ways that support real-world decisions.
+What makes my work stand out is my ability to build solutions that learn from information across different sources while respecting privacy and local ownership. In simple terms, I’m interested in finding better ways to improve decisions without needing to bring all information into one place.
 
-**Interests:** Transportation analytics, logistics optimization, freight systems, intelligent transportation systems (ITS), and applied machine learning.
+I’m particularly interested in building practical ML solutions for **freight demand forecasting**, **resource allocation**, and **transportation system optimization**. I enjoy working across the full process, from understanding the problem and preparing data to building models and turning results into useful insights.
+
+**Interests:** Transportation analytics, logistics optimization, freight systems, intelligent transportation systems (ITS), applied machine learning, and privacy-aware collaborative problem-solving.
 
 ---
 
@@ -23,13 +25,14 @@ I’m particularly interested in building practical ML solutions for **freight d
 - Applying ML methods to transportation and logistics problems
 - Exploring predictive modeling and data-driven decision support for freight and mobility systems
 - Building projects that connect research in transportation engineering with practical ML applications
+- Studying ways to improve shared learning across different data sources without centralizing sensitive information
 
 ---
 
 ## Featured Projects
 - **Freight Demand Forecasting** — Built predictive models for freight demand to support transportation planning, capacity analysis, and data-driven logistics decisions.
 - **Transportation Service Allocation at Logistics Hubs** — Developed allocation approaches for transportation services at logistics hubs to better understand operational efficiency and resource coordination.
-- **Autonomous Vehicle Environment Perception** — Applied ML techniques to a transportation-related perception problem, with this work positioned as complementary to my broader focus on transportation systems and logistics analytics.
+- **Autonomous Vehicle Environment Perception** — Applied ML techniques to a transportation-related perception problem, with this work positioned as complementary to my broader focus on transportation analytics and intelligent systems.
 
 ---
 
@@ -42,9 +45,9 @@ I’m particularly interested in building practical ML solutions for **freight d
 
 **Tools:** Git/GitHub, Jupyter, Anaconda
 
-**Domain Focus:** Transportation systems, logistics, freight analytics, forecasting, optimization
+**Domain Focus:** Transportation systems, logistics, freight analytics, forecasting, optimization, and privacy-conscious collaborative learning
 
 ---
 
 ## What I’m looking for
-I’m interested in **AI/ML engineering**, **applied machine learning**, and **data-driven transportation/logistics** roles where I can contribute to forecasting, optimization, and decision-support systems for real-world operations.
+I’m interested in **AI/ML engineering**, **applied machine learning**, and **data-driven transportation/logistics** roles where I can contribute to forecasting, optimization, decision-support systems, and collaborative approaches to learning from distributed information.
