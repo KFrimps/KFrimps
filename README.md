@@ -20,13 +20,13 @@ I build ML systems that learn from **distributed transportation data**—with an
 ---
 
 ## What I’m currently working on:
-- Autonomous vehicle environmental perception
+- Autonomous vehicle environmental perception: Image classification
 
 ---
 
 ## Projects
 - **Autonomous vehicle environment perception**
-- **Transportation Service Allocation at Logistics Hubs** - https://github.com/KFrimps/Service-allocation-at-Logistics-Hubs
+- **Transportation Service Allocation at Logistics Hubs** — https://github.com/KFrimps/Service-allocation-at-Logistics-Hubs
 - **Freight Demand Forecasting** — https://github.com/KFrimps/Freight-Demand-Forecasting
 ---
 
