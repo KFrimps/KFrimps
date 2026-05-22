@@ -39,13 +39,15 @@ I’m particularly interested in building practical ML solutions for **freight d
 ## Technical Skills
 **Languages:** Python
 
-**Machine Learning:** scikit-learn, TensorFlow, PyTorch
+**Core Skills:** Machine learning, predictive modeling, forecasting, optimization, data analysis, and model evaluation
 
-**Data & Analysis:** NumPy, Pandas, SciPy, Matplotlib, Plotly
+**Libraries & Frameworks:** scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, SciPy
 
-**Tools:** Git/GitHub, Jupyter, Anaconda
+**Visualization:** Matplotlib, Plotly
 
-**Domain Focus:** Transportation systems, logistics, freight analytics, forecasting, optimization, and privacy-conscious collaborative learning
+**Tools:** Git/GitHub, Jupyter
+
+**Domain Focus:** Transportation systems, logistics, freight analytics, intelligent transportation systems, and privacy-conscious collaborative learning
 
 ---
 
