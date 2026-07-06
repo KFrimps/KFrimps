@@ -50,4 +50,4 @@ I’m particularly interested in building practical ML solutions for **freight d
 ---
 
 ## What I’m looking for
-I’m interested in **Data Science**, **applied machine learning**, and **data-driven transportation/logistics** roles where I can contribute to forecasting, optimization, decision-support systems, and collaborative approaches to learning from distributed data.
+I’m interested in **data Science**, **applied machine learning**, and **data-driven transportation/logistics** roles where I can contribute to forecasting, optimization, decision-support systems, and collaborative approaches to learning from distributed data.
