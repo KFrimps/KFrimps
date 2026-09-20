@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Kwadwo Frimpong</h1>
 <p align="center">
-MASc. Civil Engineering @ McMaster University • Machine Learning for Transportation & Logistics • Forecasting • Optimization
+MASc. @ McMaster University • Machine Learning for Transportation & Logistics • Forecasting • Optimization
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/kwadwo-frimpong">LinkedIn</a> •
 <a href="mailto:frimpongkwadwo53@gmail.com">Email</a> •
-<a href="https://github.com/KFrimps">GitHub</a>
 </p>
 
 ---
 
 ## Summary
-I’m a MASc. Civil Engineering student at **McMaster University** applying **machine learning** to **transportation and logistics systems**. My work focuses on using data-driven methods to support better planning, smarter operations, and more informed decisions across freight and mobility systems.
+I’m a MASc. student at **McMaster University** applying **machine learning** to **transportation and logistics systems**. My work focuses on using data-driven methods to support better planning, smarter operations, and more informed decisions across freight and mobility systems.
 
 What makes my work stand out is my ability to build solutions that learn from information across different sources while respecting privacy and local ownership. In simple terms, I’m interested in finding better ways to improve decisions without needing to bring all information into one place.
 
@@ -39,15 +38,10 @@ I’m particularly interested in building practical ML solutions for **freight d
 ## Technical Skills
 **Languages:** Python
 
-**Core Skills:** Machine learning, predictive modeling, forecasting, optimization, data analysis, and model evaluation
+**Core Skills:** Federated Learning, Reinforcement learning, optimization, predictive modeling, data analysis, and model evaluation
 
-**Libraries & Frameworks:** scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, SciPy, Flower
+**Libraries & Frameworks:** PyTorch, scikit-learn, NumPy, Pandas, Flower
 
 **Visualization:** Matplotlib, Plotly
 
-**Tools:** Git/GitHub, Jupyter
-
 ---
-
-## What I’m looking for
-I’m interested in **data science**, **applied machine learning**, and **data-driven transportation/logistics** roles where I can contribute to forecasting, optimization, decision-support systems, and collaborative approaches to learning from distributed data.
