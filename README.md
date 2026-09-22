@@ -29,7 +29,7 @@ I’m particularly interested in building practical ML solutions for **freight d
 ---
 
 ## Featured Projects
-- **Freight Demand Forecasting** — Built predictive models for freight demand to support transportation planning, capacity analysis, and data-driven logistics decisions.
+- **<a href=https://github.com/KFrimps/Freight-Demand-Forecasting>Freight Demand Forecasting</a> ** — Built predictive models for freight demand to support transportation planning, capacity analysis, and data-driven logistics decisions.
 - **Transportation Service Allocation at Logistics Hubs** — Developed allocation approaches for transportation services at logistics hubs to better understand operational efficiency and resource coordination.
 - **Autonomous Vehicle Environment Perception** — Applied ML techniques to a transportation-related perception problem, with this work positioned as complementary to my broader focus on transportation analytics and intelligent systems.
 
